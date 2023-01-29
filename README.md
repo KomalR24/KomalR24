@@ -1,5 +1,5 @@
 <h1 align="center">Greetings 👋, I'm Komal Ratre</h1>
-<h3 align="center">I am a Think Thrice, Dry Run Twice and Code Once, kind a CODER!</h3>
+<h3 align="center">I am a "Think Thrice, Dry Run Twice and Code Once" kind a CODER!</h3>
 <br/>
 <img align="right" alt="Coding" width="420" src="https://media.tenor.com/CzdMW7wnLn8AAAAM/coding.gif">
 
