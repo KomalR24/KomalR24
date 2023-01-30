@@ -1,4 +1,3 @@
-<img align="center" alt="MasterHead" width="100%" height="50%" src="https://blog.logrocket.com/wp-content/uploads/2020/08/Dino_non-birthday_version.gif">
 <h1 align="center">Greetings 👋, I'm Komal Ratre</h1>
 <h3 align="center">I am a "Think Thrice, Dry Run Twice and Code Once" kind a CODER!</h3>
 <br/>
