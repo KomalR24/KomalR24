@@ -3,9 +3,9 @@
 <br/>
 <img align="right" alt="Coding" width="420" src="https://media.tenor.com/CzdMW7wnLn8AAAAM/coding.gif">
 
-- 🔭 I’m currently working on **Building a Chess Game**
+- 🔭 I’m currently working on **React Js**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **next.js**
 
 - 💬 Ask me about **Data Structures and Algorithms**
 
