@@ -2,7 +2,9 @@
 <h3 align="center">Think Thrice, Dry run Twice and Code Once, kind a CODER!</h3>
 
 - 🔭 I’m currently working on **React JS**
-- hello hello hello
+  
+- 🌱 I’m currently learning **Next.js**
+  
 - 💬 Ask me about **Data Structures and Algorithms**
 
 - 📫 How to reach me **komalratre2002@gmail.com**
