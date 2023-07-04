@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working on **React JS**
 
+- hello hello hello
 - 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **Data Structures and Algorithms**
