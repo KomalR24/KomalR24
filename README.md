@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Komal Ratre</h1>
+<h1 align="center">Greetings, I am Komal Ratre</h1>
 <h3 align="center">Think Thrice, Dry run Twice and Code Once, kind a CODER!</h3>
 
 - 🔭 I’m currently working on **React JS**
