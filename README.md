@@ -1,15 +1,7 @@
 <h1 align="center">Greetings, I am Komal Ratre</h1>
 <h3 align="center">Think Thrice, Dry run Twice and Code Once, kind a CODER!</h3>
 
-- 🔭 I’m currently working on **React JS**
-  
-- 🌱 I’m currently learning **Next.js**
-  
-- 💬 Ask me about **Data Structures and Algorithms**
-
-- 📫 How to reach me **komalratre2002@gmail.com**
-
-- ⚡ Fun fact **The Root is at the Top of the Tree.**
+hello
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
